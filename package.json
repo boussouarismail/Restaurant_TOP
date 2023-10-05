@@ -1,0 +1,19 @@
+{
+  "name": "restorant_top",
+  "version": "1.0.0",
+  "description": "this is a test project for The Odin Project TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Ismail <boussouarismail@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
