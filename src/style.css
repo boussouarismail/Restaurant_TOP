@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#content{
+    width: 50svw;
+    padding: 5em 0 0 0;
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+}
+
+header{
+    border: 1px solid red;
+    padding: 5em 0 0 2em;
+    display: flex;
+    
+
+}
+
+.tag{
+    padding: 2rem;
+    border-radius: 20px 20px 0 0;
+}
+
+content{
+    border: 1px solid yellow;
+    flex-grow: 1;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    border: 1px solid yellowgreen;
+}
